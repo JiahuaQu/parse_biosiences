@@ -1,0 +1,18 @@
+CD8 Naive
+B Naive
+B Intermediate/Memory
+CD14 Mono
+CD4 Naive
+NK
+CD4 Memory
+cDC
+CD8 Memory
+CD16 Mono
+NK CD56bright
+MAIT
+Treg
+ILC
+HSPC
+Plasmablast
+NKT
+pDC
