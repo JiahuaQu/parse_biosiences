@@ -50,7 +50,7 @@ plt.grid(axis='both', linestyle='--', alpha=0.5)
 
 # 保存 Matplotlib 图形对象为 Pickle 文件
 fig = plt.gcf()  # 获取当前图形对象
-output_pickle = os.path.join(analysis_save_path, 'cell_type_cytokine_distribution.pkl')
+output_pickle = 'cell_type_cytokine_distribution.pkl'
 
 with open(output_pickle, 'wb') as f:
     pickle.dump(fig, f)
