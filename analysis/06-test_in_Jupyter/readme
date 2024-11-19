@@ -1,1 +1,1 @@
-Specify cell_type in bsub command to run script for each cell type separately.
+Test the Python script and run it in Jupyter Lab for each cell type separately.
